@@ -1,0 +1,38 @@
+## MAP BY ANDIUBER ##
+
+entity.bed:floating_text.name=Floating Text
+entity.add:trader_bedwars.name=Bedwars Trader
+entity.add:generators.name=Generators
+entity.add:boss_bar.name=Boss Bar
+
+item.spawn_egg.entity.bed:floating_text.name=Floating Text
+item.spawn_egg.entity.add:trader_bedwars.name=Bedwars Trader
+item.spawn_egg.entity.add:generators.name=Generators
+item.spawn_egg.entity.add:boss_bar.name=Boss Bar
+
+item.golden_shovel.name=§l§gLevel 3
+item.iron_shovel.name=§l§fLevel 3
+item.golden_axe.name=§l§gLevel 2
+item.iron_axe.name=§l§fLevel 2
+
+item.bed.red.name=Red Bed
+item.bed.lime.name=Lime Bed
+item.bed.yellow.name=Yellow Bed
+item.bed.lightBlue.name=Light Blue Bed
+tile.concrete.red.name=Red Concrete
+tile.concrete.lime.name=Lime Concrete
+tile.concrete.yellow.name=Yellow Concrete
+tile.concrete.lightBlue.name=Light Blue Concrete
+tile.wool.lightBlue.name=Light Blue Wool
+tile.wool.lime.name=Lime Wool
+tile.wool.red.name=Red Wool
+tile.wool.yellow.name=Yellow Wool
+tile.end_stone.name=End Stone
+tile.obsidian.name=Obsidian
+
+trade.levelPrefixAndName= %d %s
+trade.levelPrefixAndName.max= 
+trade.level.1=§6§lLevel 2
+trade.level.2=§6§lLevel 3
+
+## ©TEAM CUBITOS MC ##

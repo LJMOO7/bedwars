@@ -1,0 +1,12 @@
+{
+  "materials": {
+    "version": "1.0.0",
+    "floating_text:entity_alphatest": {},
+    "emerald:entity_alphatest": {},
+    "iron:entity_alphatest": {},
+    "diamond:entity_alphatest": {},
+    "trader_bedwars:entity_alphatest": {},
+    "generators:entity_alphatest": {},
+    "gold:entity_alphatest": {}
+  }
+}

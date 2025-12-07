@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§gby Andiuber §bTwitter: §f@AndiuberOficial\n§9©TEAM CUBITOS MC §7www.cubitosmc.com",
+        "name": "§cResource §l§dBed§bWars §r§7v2.5",
+        "uuid": "4c1c487a-c1d4-11ec-9d64-0242ac120002",
+        "version": [1, 0, 0]
+    },
+    "modules": [{
+        "description": "",
+        "type": "resources",
+        "uuid": "4c1c4af0-c1d4-11ec-9d64-0242ac120002",
+        "version": [1, 0, 0]
+    }]
+}
